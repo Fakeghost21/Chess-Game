@@ -1,0 +1,12 @@
+# Blender MTL File: 'vaza.blend'
+# Material Count: 1
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd 360_F_141854213_ivBmQTNalgFOikskzAbds8zjvCqM2Fma.jpg
+map_d 360_F_141854213_ivBmQTNalgFOikskzAbds8zjvCqM2Fma.jpg

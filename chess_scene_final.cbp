@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="chess_scene_final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/chess_scene_final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/chess_scene_final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="chess_table.depend" />
+		<Unit filename="chess_table.layout" />
+		<Unit filename="glad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="mesh.cpp" />
+		<Unit filename="mesh.h" />
+		<Unit filename="model.cpp" />
+		<Unit filename="model.h" />
+		<Unit filename="obiect.cpp" />
+		<Unit filename="obiect.h" />
+		<Unit filename="obiect1.frag" />
+		<Unit filename="obiect1.vert" />
+		<Unit filename="resurse/pereti/360_F_141854213_ivBmQTNalgFOikskzAbds8zjvCqM2Fma.jpg" />
+		<Unit filename="resurse/pereti/360_F_195763944_X01mVE3wtMosA6hC8wNStU1YYNfGPvpn.png" />
+		<Unit filename="resurse/pereti/360_F_427196332_m56bhWI4t4hfsScEYsAEynF352zW00Zc.jpg" />
+		<Unit filename="resurse/pereti/Brick Texture 81_3D_p.png" />
+		<Unit filename="resurse/pereti/Donut_texture.png" />
+		<Unit filename="resurse/pereti/FT5xgS.png" />
+		<Unit filename="resurse/pereti/Seamless wall white paint stucco plaster texture.png" />
+		<Unit filename="resurse/pereti/blackCeramic.png" />
+		<Unit filename="resurse/pereti/bricks_0020_color_2k.jpg" />
+		<Unit filename="resurse/pereti/brickwall.mtl" />
+		<Unit filename="resurse/pereti/brickwall.obj" />
+		<Unit filename="resurse/pereti/camera.mtl" />
+		<Unit filename="resurse/pereti/cana.mtl" />
+		<Unit filename="resurse/pereti/cana.obj" />
+		<Unit filename="resurse/pereti/chair_pillow.png" />
+		<Unit filename="resurse/pereti/cup.png" />
+		<Unit filename="resurse/pereti/depositphotos_56724279-stock-photo-green-leafy-bush-seamless-texture.jpg" />
+		<Unit filename="resurse/pereti/donut.mtl" />
+		<Unit filename="resurse/pereti/donut.obj" />
+		<Unit filename="resurse/pereti/donut2.mtl" />
+		<Unit filename="resurse/pereti/donut2.obj" />
+		<Unit filename="resurse/pereti/donut3.mtl" />
+		<Unit filename="resurse/pereti/donut3.obj" />
+		<Unit filename="resurse/pereti/donut4.mtl" />
+		<Unit filename="resurse/pereti/donut4.obj" />
+		<Unit filename="resurse/pereti/donut_icing3.png" />
+		<Unit filename="resurse/pereti/dount_icing.png" />
+		<Unit filename="resurse/pereti/faded-gray-wooden-textured-flooring-background_53876-110739.jpg" />
+		<Unit filename="resurse/pereti/file.jpg" />
+		<Unit filename="resurse/pereti/gogoasa.mtl" />
+		<Unit filename="resurse/pereti/gogoasa.obj" />
+		<Unit filename="resurse/pereti/horse3.mtl" />
+		<Unit filename="resurse/pereti/horse3.obj" />
+		<Unit filename="resurse/pereti/icing2.mtl" />
+		<Unit filename="resurse/pereti/icing2.obj" />
+		<Unit filename="resurse/pereti/icing3.mtl" />
+		<Unit filename="resurse/pereti/icing3.obj" />
+		<Unit filename="resurse/pereti/istockphoto-1172953034-170667a.png" />
+		<Unit filename="resurse/pereti/king.mtl" />
+		<Unit filename="resurse/pereti/king.obj" />
+		<Unit filename="resurse/pereti/king_chess - Copy.obj" />
+		<Unit filename="resurse/pereti/king_chess.mtl" />
+		<Unit filename="resurse/pereti/king_chess.obj" />
+		<Unit filename="resurse/pereti/king_chess2.mtl" />
+		<Unit filename="resurse/pereti/king_chess2.obj" />
+		<Unit filename="resurse/pereti/knight_horse.mtl" />
+		<Unit filename="resurse/pereti/knight_horse.obj" />
+		<Unit filename="resurse/pereti/knight_horse2.mtl" />
+		<Unit filename="resurse/pereti/knight_horse2.obj" />
+		<Unit filename="resurse/pereti/knight_horse3.mtl" />
+		<Unit filename="resurse/pereti/knight_horse3.obj" />
+		<Unit filename="resurse/pereti/masa.mtl" />
+		<Unit filename="resurse/pereti/masa.obj" />
+		<Unit filename="resurse/pereti/masa1.mtl" />
+		<Unit filename="resurse/pereti/masa1.obj" />
+		<Unit filename="resurse/pereti/masa2.mtl" />
+		<Unit filename="resurse/pereti/masa2.obj" />
+		<Unit filename="resurse/pereti/masa3.mtl" />
+		<Unit filename="resurse/pereti/masa3.obj" />
+		<Unit filename="resurse/pereti/masa4.mtl" />
+		<Unit filename="resurse/pereti/masa4.obj" />
+		<Unit filename="resurse/pereti/masa5.mtl" />
+		<Unit filename="resurse/pereti/masa5.obj" />
+		<Unit filename="resurse/pereti/masa6.mtl" />
+		<Unit filename="resurse/pereti/masa6.obj" />
+		<Unit filename="resurse/pereti/masa7.mtl" />
+		<Unit filename="resurse/pereti/masa7.obj" />
+		<Unit filename="resurse/pereti/masa8.mtl" />
+		<Unit filename="resurse/pereti/masa8.obj" />
+		<Unit filename="resurse/pereti/nebun.mtl" />
+		<Unit filename="resurse/pereti/nebun.obj" />
+		<Unit filename="resurse/pereti/nebun1.mtl" />
+		<Unit filename="resurse/pereti/nebun1.obj" />
+		<Unit filename="resurse/pereti/nisip.mtl" />
+		<Unit filename="resurse/pereti/nisip.obj" />
+		<Unit filename="resurse/pereti/old-wood-texture-1385971270UvN.png" />
+		<Unit filename="resurse/pereti/pawn_texture.png" />
+		<Unit filename="resurse/pereti/perete.mtl" />
+		<Unit filename="resurse/pereti/perete.obj" />
+		<Unit filename="resurse/pereti/pereteCamera.mtl" />
+		<Unit filename="resurse/pereti/pereteCamera.obj" />
+		<Unit filename="resurse/pereti/pereteVertical.mtl" />
+		<Unit filename="resurse/pereti/pereteVertical.obj" />
+		<Unit filename="resurse/pereti/pereti.mtl" />
+		<Unit filename="resurse/pereti/pereti.obj" />
+		<Unit filename="resurse/pereti/peretiCamera.mtl" />
+		<Unit filename="resurse/pereti/peretiCamera.obj" />
+		<Unit filename="resurse/pereti/piciorMasa.mtl" />
+		<Unit filename="resurse/pereti/piciorMasa.obj" />
+		<Unit filename="resurse/pereti/piedestal.mtl" />
+		<Unit filename="resurse/pereti/piedestal.obj" />
+		<Unit filename="resurse/pereti/pion.mtl" />
+		<Unit filename="resurse/pereti/pion.obj" />
+		<Unit filename="resurse/pereti/pionBlack.mtl" />
+		<Unit filename="resurse/pereti/pionBlack.obj" />
+		<Unit filename="resurse/pereti/pionTexture.png" />
+		<Unit filename="resurse/pereti/pionWhite.mtl" />
+		<Unit filename="resurse/pereti/pionWhite.obj" />
+		<Unit filename="resurse/pereti/podeaCamera.mtl" />
+		<Unit filename="resurse/pereti/podeaCamera.obj" />
+		<Unit filename="resurse/pereti/rectangle.mtl" />
+		<Unit filename="resurse/pereti/rectangle.obj" />
+		<Unit filename="resurse/pereti/rectangleWhite.mtl" />
+		<Unit filename="resurse/pereti/rectangleWhite.obj" />
+		<Unit filename="resurse/pereti/regina.mtl" />
+		<Unit filename="resurse/pereti/regina.obj" />
+		<Unit filename="resurse/pereti/regina1.mtl" />
+		<Unit filename="resurse/pereti/regina1.obj" />
+		<Unit filename="resurse/pereti/table_tex.png" />
+		<Unit filename="resurse/pereti/table_texture.png.opdownload" />
+		<Unit filename="resurse/pereti/tiles.mtl" />
+		<Unit filename="resurse/pereti/tiles.obj" />
+		<Unit filename="resurse/pereti/tiles_0047_color_2k.png" />
+		<Unit filename="resurse/pereti/timer.mtl" />
+		<Unit filename="resurse/pereti/timer.obj" />
+		<Unit filename="resurse/pereti/turn.mtl" />
+		<Unit filename="resurse/pereti/turn.obj" />
+		<Unit filename="resurse/pereti/turn1.mtl" />
+		<Unit filename="resurse/pereti/turn1.obj" />
+		<Unit filename="resurse/pereti/untitled.mtl" />
+		<Unit filename="resurse/pereti/untitled.obj" />
+		<Unit filename="resurse/pereti/vase.mtl" />
+		<Unit filename="resurse/pereti/vase.obj" />
+		<Unit filename="resurse/pereti/vaza.mtl" />
+		<Unit filename="resurse/pereti/vaza.obj" />
+		<Unit filename="resurse/pereti/white-iphone-background-48576-618642-6362285.jpg" />
+		<Unit filename="resurse/pereti/wood.png" />
+		<Unit filename="resurse/pereti/wood_chair.mtl" />
+		<Unit filename="resurse/pereti/wood_chair.obj" />
+		<Unit filename="resurse/pereti/wood_chair_pillow.mtl" />
+		<Unit filename="resurse/pereti/wood_chair_pillow.obj" />
+		<Unit filename="scena.cpp" />
+		<Unit filename="scena.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
